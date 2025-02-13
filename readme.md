@@ -1,4 +1,6 @@
 # An online learning platform web app using 
   ## HTML5
-  ## CSS
-  ## Tailwind
+  ## CSS (Taiwind)
+  ## JavaScript (ReactJS, NodeJS)
+  ## MongoDB
+  ## Express
