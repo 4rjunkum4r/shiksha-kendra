@@ -1,4 +1,4 @@
 # An online learning platform web app using 
-## HTML5
-## CSS
-### Tailwind
+  ## HTML5
+  ## CSS
+  ## Tailwind
