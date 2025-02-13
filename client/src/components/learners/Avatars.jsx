@@ -9,4 +9,4 @@ const Avatars = () => {
     )
 }
 
-export default Avatars
+export default Avatars;

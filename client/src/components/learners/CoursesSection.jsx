@@ -7,4 +7,4 @@ const CoursesSection = () => {
   )
 }
 
-export default CoursesSection
+export default CoursesSection;

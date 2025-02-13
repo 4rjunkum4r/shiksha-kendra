@@ -2,5 +2,3 @@
   ## HTML5
   ## CSS (Taiwind)
   ## JavaScript (ReactJS, NodeJS)
-  ## MongoDB
-  ## Express
